@@ -1,0 +1,9 @@
+streamlit
+pandas
+pandas-profiling
+streamlit-pandas-profiling
+matplotlib
+openai
+pycaret
+scikit-learn
+python-dotenv
